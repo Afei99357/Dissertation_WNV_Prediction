@@ -16,7 +16,7 @@ The project is organized into national-level models (CDC data) and regional mode
 ⸻
 
 Repository Structure
-
+```
 .
 ├── README.md # (this file)
 ├── national_CDC_code # National CDC data-based modeling
@@ -36,7 +36,7 @@ Repository Structure
 │ ├── lagged_feature_enriched_model # Lagged feature-based models
 │ └── spatial_model # Spatial WNV modeling
 └── supplemental_materials # Supplemental figures and tables
-
+```
 ⸻
 
 Project Overview
@@ -146,9 +146,3 @@ If you use or adapt this code for your research, please cite:
 
 Yunfei Liao. HARNESSING COMPUTATIONAL TOOLS AND COMPLEX BIOLOGICAL DATA FOR ENVIRONMENTAL AND HEALTH APPLICATIONS.
 Ph.D. Dissertation. University of North Carolina at Charlotte, 2025.
-
-⸻
-
-📚 Thank you for visiting this repository!
-
-⸻
