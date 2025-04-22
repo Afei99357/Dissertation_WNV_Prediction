@@ -1,0 +1,4 @@
+Model,R2,MSE,Best_Hyperparameters
+SVM,0.24966650572167381,2.649794600050668,"{'C': 0.1206562396542381, 'epsilon': 0.15956809412764794, 'gamma': 'auto', 'kernel': 'poly'}"
+RF,0.14265054247278608,3.0277203140145135,"{'max_depth': 19, 'max_features': 0.7, 'max_leaf_nodes': 20, 'max_samples': 0.6562135295464467, 'min_impurity_decrease': 0.043222155001673444, 'min_samples_leaf': 2, 'min_samples_split': 6, 'n_estimators': 400}"
+HGBR,0.21415392390470678,2.775206897715673,"{'l2_regularization': 0.8011106541627503, 'learning_rate': 0.31360167374259607, 'max_bins': 180, 'max_depth': 3, 'max_iter': 100, 'max_leaf_nodes': 70, 'min_samples_leaf': 9, 'scoring': 'neg_mean_squared_error'}"

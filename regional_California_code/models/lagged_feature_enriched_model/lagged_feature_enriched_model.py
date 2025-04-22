@@ -76,7 +76,7 @@ def bootstrapping(test_df:pd.DataFrame,
 
     plt.title("Test R2 distribution")
     plt.savefig(
-        output_path / f"bootstrap_result/bootstrapping_r2_distribution_with_{model_name}.png")
+        output_path / f"bootstrapping_r2_distribution_with_{model_name}.png")
     #close the plot
     plt.close()
 
@@ -93,7 +93,7 @@ def bootstrapping(test_df:pd.DataFrame,
 
     plt.title("MSE distribution")
     plt.savefig(
-        output_path / f"bootstrap_result/bootstrapping_mse_with_{model_name}.png")
+        output_path / f"bootstrapping_mse_with_{model_name}.png")
     #close the plot
     plt.close()
 
