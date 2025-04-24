@@ -15,7 +15,7 @@ The project is organized into national-level models (CDC data) and regional mode
 
 ⸻
 
-Repository Structure
+Repository Structure:
 ```
 .
 ├── README.md # (this file)
@@ -39,7 +39,7 @@ Repository Structure
 ```
 ⸻
 
-Project Overview
+Project Overview:
 
 ```
 National Models (national_CDC_code)
@@ -74,8 +74,9 @@ Data Information
 **The real data used in the dissertation differs from the demo data provided in this repository.**
 
 ⸻
+
+Main Features:
 ```
-Main Features
 • Automated hyperparameter optimization using Hyperopt.
 • Bootstrapping to assess prediction confidence intervals (R² and MSE).
 • SHAP-based feature importance at both global and local levels.
@@ -83,11 +84,12 @@ Main Features
 ```
 ⸻
 
-Requirements
+Requirements:
 
 Install the required Python packages by running:
 
 pip install -r requirements.txt
+
 ```
 Major dependencies include:
 • pandas
@@ -106,9 +108,10 @@ Other:
 • pathlib (built-in for Python 3.6+)
 • stack_data (optional, used in debugging tools)
 ```
+
 ⸻
 
-How to Run
+How to Run:
 
 Each script can be run independently.
 
@@ -120,11 +123,11 @@ Outputs (bootstrapping results, shap plots, metrics, etc.) will be saved automat
 
 ⸻
 
-License
+License:
 
 This repository is licensed under the MIT License.
 
-MIT License
+MIT License:
 
 Copyright (c) 2025 Yunfei Liao
 
