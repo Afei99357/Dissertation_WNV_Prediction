@@ -64,13 +64,13 @@ California Regional Models (regional_California_code):
 • Feature importance is analyzed using SHAP (SHapley Additive exPlanations).
 ```
 
-Supplemental Materials (supplemental_materials)
+Supplemental Materials (supplemental_materials):
 ```
 • Contains figures and tables that support the analyses presented in the dissertation.
 ```
 ⸻
 
-Data Information
+Data Information:
 ```
 • The national CDC datasets in data_demo/ are randomly generated mock data for demonstration and code testing purposes — not real human WNV case data.
 • The California regional datasets (CA_human_data_2004_to_2023_final_all_counties_CDPH_scraped.csv) were scraped from California Department of Public Health West Nile Virus Reports.
@@ -150,7 +150,7 @@ OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ⸻
 
-Citation
+Citation:
 
 If you use or adapt this code for your research, please cite:
 
