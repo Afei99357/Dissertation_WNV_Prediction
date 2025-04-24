@@ -41,8 +41,8 @@ Repository Structure:
 
 Project Overview:
 
+National Models (national_CDC_code):
 ```
-National Models (national_CDC_code)
 • Predicts annual human WNV cases across the U.S. using CDC-reported data.
 • Machine learning methods include:
 • Random Forest (RF)
@@ -51,8 +51,10 @@ National Models (national_CDC_code)
 • Neural Networks
 • Subsampling experiments were conducted to address class imbalance.
 • State-level models were also built to capture regional differences.
+```
 
-California Regional Models (regional_California_code)
+California Regional Models (regional_California_code):
+```
 • Focuses on 13 counties in California with detailed monthly WNV case reports.
 • Methods include:
 • Lagged feature-enriched models: use differencing and lag features to improve predictions.
