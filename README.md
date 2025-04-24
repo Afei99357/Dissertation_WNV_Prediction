@@ -62,8 +62,10 @@ California Regional Models (regional_California_code):
 • Spatial models: integrate county-level spatial patterns into modeling.
 • Models used: SVM, RF, HGBR.
 • Feature importance is analyzed using SHAP (SHapley Additive exPlanations).
+```
 
 Supplemental Materials (supplemental_materials)
+```
 • Contains figures and tables that support the analyses presented in the dissertation.
 ```
 ⸻
