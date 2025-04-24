@@ -69,6 +69,7 @@ Supplemental Materials (supplemental_materials)
 • Contains figures and tables that support the analyses presented in the dissertation.
 ```
 ⸻
+
 Data Information
 ```
 • The national CDC datasets in data_demo/ are randomly generated mock data for demonstration and code testing purposes — not real human WNV case data.
