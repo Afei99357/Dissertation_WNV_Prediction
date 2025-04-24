@@ -1,6 +1,6 @@
 ⸻
 
-West Nile Virus Human Case Prediction (Dissertation Project)
+West Nile Virus Human Case Prediction (Dissertation Project: Chapter 4 and Chapter 5)
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python Version">
