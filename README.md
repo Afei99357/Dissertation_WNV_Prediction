@@ -65,8 +65,8 @@ Supplemental Materials (supplemental_materials)
 • Contains figures and tables that support the analyses presented in the dissertation.
 ```
 ⸻
-```
 Data Information
+```
 • The national CDC datasets in data_demo/ are randomly generated mock data for demonstration and code testing purposes — not real human WNV case data.
 • The California regional datasets (CA_human_data_2004_to_2023_final_all_counties_CDPH_scraped.csv) were scraped from California Department of Public Health West Nile Virus Reports.
 • Please note:
