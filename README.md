@@ -41,6 +41,7 @@ Repository Structure
 
 Project Overview
 
+```
 National Models (national_CDC_code)
 • Predicts annual human WNV cases across the U.S. using CDC-reported data.
 • Machine learning methods include:
@@ -62,23 +63,23 @@ California Regional Models (regional_California_code)
 
 Supplemental Materials (supplemental_materials)
 • Contains figures and tables that support the analyses presented in the dissertation.
-
+```
 ⸻
-
+```
 Data Information
 • The national CDC datasets in data_demo/ are randomly generated mock data for demonstration and code testing purposes — not real human WNV case data.
 • The California regional datasets (CA_human_data_2004_to_2023_final_all_counties_CDPH_scraped.csv) were scraped from California Department of Public Health West Nile Virus Reports.
 • Please note:
 The real data used in the dissertation differs from the demo data provided in this repository.
-
+```
 ⸻
-
+```
 Main Features
 • Automated hyperparameter optimization using Hyperopt.
 • Bootstrapping to assess prediction confidence intervals (R² and MSE).
 • SHAP-based feature importance at both global and local levels.
 • Structured pipelines for training, validation, testing, and evaluation.
-
+```
 ⸻
 
 Requirements
@@ -86,7 +87,7 @@ Requirements
 Install the required Python packages by running:
 
 pip install -r requirements.txt
-
+```
 Major dependencies include:
 • pandas
 • numpy
@@ -103,7 +104,7 @@ Major dependencies include:
 Other:
 • pathlib (built-in for Python 3.6+)
 • stack_data (optional, used in debugging tools)
-
+```
 ⸻
 
 How to Run
